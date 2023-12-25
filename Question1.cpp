@@ -1,4 +1,4 @@
-// In this program i make class of shop and make 3 objects of stores and
+// In this program i make class of shop and make 3 objects of shop class and
 // take items detail from user and print it on user choice.
 
 #include<iostream>
